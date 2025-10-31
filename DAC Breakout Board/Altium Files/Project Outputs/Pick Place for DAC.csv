@@ -1,0 +1,19 @@
+Altium Designer Pick and Place Locations
+C:\Users\david\Downloads\New folder\DAC_BREAKOUT\Project Outputs for DAC_BREAKOUT\Pick Place for DAC.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       31/10/25
+Time:       12:27
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"P1","61300611121","TopLayer","61300611121","2385.000","2910.000","180",""
+"U1","MCP4725A1T-E/CH","TopLayer","SOT-23-CH6_N","2390.000","3210.000","0","12-Bit Digital-to-Analog Converter with EEPROM Memory in SOT-23-6, 6-Pin SOT-23, Extended Temperature, Tape and Reel"
+"R2","10k","TopLayer","FP-CRCW0402-C-e3-IPC_C","2520.000","3152.143","270","RES 10K OHM 1% 1/16W 0402"
+"R1","10k","TopLayer","FP-CRCW0402-C-e3-IPC_C","2520.000","3235.000","90","RES 10K OHM 1% 1/16W 0402"
+"C2","10uF","TopLayer","FP-C0805C106J8RACAUTO-MFG","2195.000","3190.000","90","CAP CER 10UF 10V X7R 0805"
+"C1","100nF","TopLayer","CAPC1050X55X23ML05T13","2280.000","3190.000","270","Chip Capacitor, 100 nF, +/- 10%, 16 V, -55 to 125 degC, 0402 (1005 Metric), RoHS, Tape and Reel"

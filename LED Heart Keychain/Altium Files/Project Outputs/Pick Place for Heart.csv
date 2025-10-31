@@ -1,0 +1,40 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\HEART_PCB\Project Outputs for HEART_PCB\Pick Place for Heart.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       30/10/25
+Time:       22:15
+Revision:   91b4241aaa48e6806263f8defe0ee62b9bad95cf
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"D10","LED","TopLayer","WL-TMRC_D3.95H5.3","2445.000","2390.000","270",""
+"R12","100","TopLayer","FP-TFCR1206-IPC_B","2685.000","1690.000","270","RES Thin Film, 100O, 0.1%, 0.125W, 25ppm/°C, 1206"
+"D12","LED","TopLayer","WL-TMRC_D3.95H5.3","2725.000","2045.000","270",""
+"R16","5.1k","TopLayer","FP-TFCR2512-IPC_A","3005.000","1500.128","90","RES Thin Film, 5.1kO, 0.5%, 0.5W, 25ppm/°C, 2512"
+"R15","5.1k","TopLayer","FP-TFCR2512-IPC_A","2825.000","1500.128","90","RES Thin Film, 5.1kO, 0.5%, 0.5W, 25ppm/°C, 2512"
+"R11","100","TopLayer","FP-TFCR1206-IPC_B","2585.000","1690.000","270","RES Thin Film, 100O, 0.1%, 0.125W, 25ppm/°C, 1206"
+"R10","100","TopLayer","FP-TFCR1206-IPC_B","2485.000","1690.000","270","RES Thin Film, 100O, 0.1%, 0.125W, 25ppm/°C, 1206"
+"R9","100","TopLayer","FP-TFCR1206-IPC_B","2685.000","1420.167","270","RES Thin Film, 100O, 0.1%, 0.125W, 25ppm/°C, 1206"
+"R8","100","TopLayer","FP-TFCR1206-IPC_B","2585.000","1420.000","270","RES Thin Film, 100O, 0.1%, 0.125W, 25ppm/°C, 1206"
+"R7","100","TopLayer","FP-TFCR1206-IPC_B","2485.000","1420.167","270","RES Thin Film, 100O, 0.1%, 0.125W, 25ppm/°C, 1206"
+"R6","100","TopLayer","FP-TFCR1206-IPC_B","3345.000","1420.000","270","RES Thin Film, 100O, 0.1%, 0.125W, 25ppm/°C, 1206"
+"R5","100","TopLayer","FP-TFCR1206-IPC_B","3245.000","1420.000","270","RES Thin Film, 100O, 0.1%, 0.125W, 25ppm/°C, 1206"
+"R4","100","TopLayer","FP-TFCR1206-IPC_B","3145.000","1420.000","270","RES Thin Film, 100O, 0.1%, 0.125W, 25ppm/°C, 1206"
+"R3","100","TopLayer","FP-TFCR1206-IPC_B","3345.000","1690.000","270","RES Thin Film, 100O, 0.1%, 0.125W, 25ppm/°C, 1206"
+"R2","100","TopLayer","FP-TFCR1206-IPC_B","3245.000","1690.000","270","RES Thin Film, 100O, 0.1%, 0.125W, 25ppm/°C, 1206"
+"R1","100","TopLayer","FP-TFCR1206-IPC_B","3145.000","1690.000","270","RES Thin Film, 100O, 0.1%, 0.125W, 25ppm/°C, 1206"
+"J1","217175-0001","TopLayer","FP-217175-0001-MFG","2915.000","1202.913","0","CONN RCP USB2.0 C 6+18P SMD RA"
+"D11","LED","TopLayer","WL-TMRC_D3.95H5.3","2540.000","2190.000","270",""
+"D9","LED","TopLayer","WL-TMRC_D3.95H5.3","2530.000","2590.000","270",""
+"D8","LED","TopLayer","WL-TMRC_D3.95H5.3","2720.000","2735.000","270",""
+"D7","LED","TopLayer","WL-TMRC_D3.95H5.3","2910.000","2590.000","270",""
+"D6","LED","TopLayer","WL-TMRC_D3.95H5.3","3100.000","2735.000","270",""
+"D5","LED","TopLayer","WL-TMRC_D3.95H5.3","3295.000","2590.000","270",""
+"D4","LED","TopLayer","WL-TMRC_D3.95H5.3","3380.000","2390.000","270",""
+"D3","LED","TopLayer","WL-TMRC_D3.95H5.3","3280.000","2190.000","270",""
+"D2","LED","TopLayer","WL-TMRC_D3.95H5.3","3095.000","2045.000","270",""
+"D1","LED","TopLayer","WL-TMRC_D3.95H5.3","2910.000","1900.000","270",""

@@ -1,0 +1,23 @@
+Altium Designer Pick and Place Locations
+C:\Users\david\Downloads\New folder\Project Outputs for LCD_BREAKOUT\Pick Place for LCD.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       30/10/25
+Time:       20:56
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"P1","61300811121","BottomLayer","61300811121","3945.000","1590.000","0",""
+"DS1","NHD-C12832A1Z-FSW-FBW-3V3","TopLayer","NHDC12832A1ZFSWFBW3V3","3948.780","2604.567","180","Display"
+"C8","100nF","BottomLayer","CAPC1608X87X45LL20T05","4185.542","2725.000","270","Ceramic 100nF X7R 16V 5%"
+"C7","100nF","BottomLayer","CAPC1608X87X45LL20T05","4245.000","2725.000","270","Ceramic 100nF X7R 16V 5%"
+"C6","100nF","BottomLayer","CAPC1608X87X45LL20T05","4302.398","2725.000","270","Ceramic 100nF X7R 16V 5%"
+"C5","100nF","BottomLayer","CAPC1608X87X45LL20T05","4361.296","2725.000","270","Ceramic 100nF X7R 16V 5%"
+"C4","100nF","BottomLayer","CAPC1608X87X45LL20T05","4420.000","2725.000","270","Ceramic 100nF X7R 16V 5%"
+"C3","1uF Tantalum","BottomLayer","FP-293DB-MFG","4177.913","2490.000","180","293D105X9050B2TE3 Cap Tant Solid 1uF 50V B CASE 10% (3.5 X 2.8 X 1.9mm) Inward L SMD 3528-21 6.7 Ohm 125C T/R"
+"C2","1uF Tantalum","BottomLayer","FP-293DB-MFG","3917.087","2490.000","0","293D105X9050B2TE3 Cap Tant Solid 1uF 50V B CASE 10% (3.5 X 2.8 X 1.9mm) Inward L SMD 3528-21 6.7 Ohm 125C T/R"
+"C1","1uF","BottomLayer","CAPC1206(3216)130_N","3865.000","2735.000","180","CAP 1uF 10V ±5% 1206 (3216 Metric) Thickness 1.3mm SMD"
