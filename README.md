@@ -6,7 +6,7 @@ Parent repository for my PCB designs.
 Breakout board for the MCP4725 12-Bit DAC by Microchip Technology.
 <br>
 <div align="left">
-  <img src="DAC%20Breakout%20Board/PCB%203D.png" alt="DAC Breakout Board" width="300px" style="display: block; margin-left: auto; margin-right: auto;">
+  <img src="DAC%20Breakout%20Board/PCB%203D.png" alt="DAC Breakout Board" width="500px" style="display: block; margin-left: auto; margin-right: auto;">
 </div>
 <br>
 
@@ -24,7 +24,7 @@ Three-phase sensorless BLDC motor controller using the A4963GLPTR-T driver IC wi
 Breakout board for the NHD-C12832A1Z-FSW-FBW-3V3 LCD Display by Newhaven Display.
 <br>
 <div align="left">
-  <img src="DAC%20Breakout%20Board/PCB%203D.png" alt="DAC Breakout Board" width="300px" style="display: block; margin-left: auto; margin-right: auto;">
+  <img src="DAC%20Breakout%20Board/PCB%203D.png" alt="DAC Breakout Board" width="500px" style="display: block; margin-left: auto; margin-right: auto;">
 </div>
 <br>
 
@@ -34,7 +34,7 @@ Compact PCB featuring a heart-shaped LED array.
 - Mounting hole for attachment to a keychain.
 <br>
 <div align="left">
-  <img src="LED%20Heart%20Keychain/PCB%203D.png" alt="LED Heart Keychain" height="200px" style="display: block; margin-left: auto; margin-right: auto;">
+  <img src="LED%20Heart%20Keychain/PCB%203D.png" alt="LED Heart Keychain" width="300px" style="display: block; margin-left: auto; margin-right: auto;">
 </div>
 <br>
 
@@ -47,7 +47,6 @@ PDB with a configurable analog output using the IP2721 IC and digital +15V, -15V
 - LCD interface header for waveform and parameter display
 <br>
 <div align="left">
-  <img src="Waveform%20Generator%20PDB/PCB%203D.png)
-<br>" alt="Waveform Generator PDB" width="500px" style="display: block; margin-left: auto; margin-right: auto;">
+  <img src="Waveform%20Generator%20PDB/PCB%203D.png)" alt="Waveform Generator PDB" width="500px" style="display: block; margin-left: auto; margin-right: auto;">
 </div>
 <br>
