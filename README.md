@@ -1,4 +1,4 @@
-# PCB Projects
+# PCB Designs
 Parent repository for my PCB designs.
 <br>
 
@@ -47,6 +47,6 @@ Power supply board with a configurable analog output using the IP2721 IC and dig
 - LCD interface header for waveform and parameter display
 <br>
 <div align="left">
-  <img src="Waveform%20Generator%20PDB/PCB%203D.png" alt="Waveform Generator PDB" width="500px" style="display: block; margin-left: auto; margin-right: auto;">
+  <img src="Waveform%20Generator/PCB%203D.png" alt="Waveform Generator" width="500px" style="display: block; margin-left: auto; margin-right: auto;">
 </div>
 <br>
