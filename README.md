@@ -43,7 +43,6 @@ Power supply board with a configurable analog output using the IP2721 IC and dig
 - 45 W USB-C input for power delivery
 - Switches, rotary encoder, and potentiometer to select waveform, frequency, phase, and output analog voltage
 - Integrated STM32 microcontroller with STLINK interface for waveform generation and system control
-- Op-amp stage for precise analog signal output
 - LCD interface header for waveform and parameter display
 <br>
 <div align="left">
