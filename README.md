@@ -1,6 +1,11 @@
 # PCB Designs
 Parent repository for my PCB designs.
 <br>
+- [DAC Breakout Board](#dac-breakout-board)
+- [Drone Brushless DC Motor Controller](#drone-brushless-dc-motor-controller)
+- [LCD Breakout Board](#dac-breakout-board)
+- [LED Heart Keychain](#led-heart-keychain)
+- [Waveform Generator](#waveform-generator)
 
 ## DAC Breakout Board
 Breakout board for the MCP4725 12-Bit DAC by Microchip Technology.
